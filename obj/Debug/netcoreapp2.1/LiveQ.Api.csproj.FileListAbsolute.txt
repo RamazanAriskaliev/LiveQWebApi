@@ -1,0 +1,15 @@
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.csprojAssemblyReference.cache
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.csproj.CoreCompileInputs.cache
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.AssemblyInfoInputs.cache
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.AssemblyInfo.cs
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\bin\Debug\netcoreapp2.1\LiveQ.Api.deps.json
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\bin\Debug\netcoreapp2.1\LiveQ.Api.runtimeconfig.json
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\bin\Debug\netcoreapp2.1\LiveQ.Api.runtimeconfig.dev.json
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\bin\Debug\netcoreapp2.1\LiveQ.Api.dll
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\bin\Debug\netcoreapp2.1\LiveQ.Api.pdb
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.RazorAssemblyInfo.cache
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.RazorAssemblyInfo.cs
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.RazorTargetAssemblyInfo.cache
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.dll
+R:\Repositories\Projects\projects\2017\18.02\LiveQ.Api\LiveQ.Api\obj\Debug\netcoreapp2.1\LiveQ.Api.pdb
